@@ -340,7 +340,7 @@ footer::before {
 	background-image: url(../images/bg-footer-top-desktop.svg);
 	width: 100%;
 	height: 175px;
-	top: -160px;
+	top: -150px;
 	background-size: contain;
 	background-repeat: no-repeat;
 }
